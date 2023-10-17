@@ -1,0 +1,66 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Anand Prakash ",
+      "lastName": " Chaudhary",
+      "email": "apchaudhary8126@gmail.com",
+      "mobile": "8126137013",
+      "weight": 55,
+      "height": 5.3,
+      "bmi": 0.17799928800284798,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Toxic Fat reduction",
+        "Buliding Learn Muscle",
+        "Sugar Carving Body"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-10-18T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Mr",
+      "lastName": "John",
+      "email": "john12@gmail.com",
+      "mobile": "7363572534",
+      "weight": 56,
+      "height": 5.1,
+      "bmi": 0.1922337562475971,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Buliding Learn Muscle",
+        "Sugar Carving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-10-20T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Amit",
+      "lastName": "Singh",
+      "email": "amit1234@gmail.com",
+      "mobile": "837276424",
+      "weight": 23,
+      "height": 4.3,
+      "bmi": 0.2163331530557058,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Quarterly",
+      "important": [
+        "Energy and Endurance",
+        "Healthier Digestive System",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-10-27T18:30:00.000Z",
+      "id": 3
+    }
+  ]
+}
